@@ -23,7 +23,3 @@ To submit you'll need a Github account. If you don't have one, go ahead and [cre
   * Role
   * Where you work
   * Short bio 
-
-## Todos
-
-- [ ] update once site launched with directions on submitting via PR
