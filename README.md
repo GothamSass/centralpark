@@ -9,7 +9,7 @@ To submit you'll need a Github account. If you don't have one, go ahead and [cre
 
 1. Open a [new issue](https://github.com/GothamSass/centralpark/issues/new)
 1. If you have a **talk title**, go ahead an enter it. If not, a short, concise title describing your talk will suffice
-1. Tell us what you plan on talking about in the description. Be as detailed as possible. Don't worry about pitching to us, this isn't as formal as a conference proposal, but you can use it for practice. If you have links, share them. Here are some things to think about? Checkout our [example](https://github.com/GothamSass/centralpark/issues/new) if you need help.
+1. Tell us what you plan on talking about in the description. Be as detailed as possible. Don't worry about pitching to us, this isn't as formal as a conference proposal, but you can use it for practice. If you have links, share them. Here are some things to think about? Checkout our [example](https://github.com/GothamSass/centralpark/issues/1) if you need help.
   * Whose the talked geared towards?
   * What's the level? We welcome beginner to super advanced
   * What type of talk? Workshop (1.5-2hrs), lightning (5 or 10 minutes), or standard (20 or 30 min).
@@ -26,5 +26,4 @@ To submit you'll need a Github account. If you don't have one, go ahead and [cre
 
 ## Todos
 
-- [ ] provide examples of submissions
 - [ ] update once site launched with directions on submitting via PR
