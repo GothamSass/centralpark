@@ -6,8 +6,9 @@
 # Title of Presentation (required)
 
 ## Type of Presentation (required)
-[  ] Standard Length Talk
-[  ] Lightning Talk
+[  ] Standard Length Talk *(20 or 30 mins)*
+[  ] Lightning Talk *(5 or 10 mins)*
+[  ] Workshop *(1.5-2hrs)*
 
 ## Description (required)
 
@@ -15,9 +16,10 @@
 
 ## Speaker Info (required)
 
-* Name      : Bruce Wayne
-* Location  : Gotham, NY
-* Contact   : bruce@wayne.com
+* Name                     : Bruce Wayne
+* Location                 : Gotham, NY
+* Contact                  : bruce@wayne.com
+* Preferred gender   : Male
 
 ## More Info (optional)
 
@@ -39,6 +41,10 @@ _replace with your URL_
 
 _Photo/Art by [Osama](http://www.tvsinopse.kinghost.net/ebook2/batman63.htm)._
 
+
+
+
+* * * 
 ```
 
 
