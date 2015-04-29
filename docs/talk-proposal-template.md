@@ -1,6 +1,8 @@
 ## Submission Template
 
 ```
+## Submission Template
+
 # Title of Presentation (required)
 
 ## Type of Presentation (required)
@@ -13,29 +15,29 @@
 
 ## Speaker Info (required)
 
-* Name      : Carol Danvers
-* Location  : NYC, NY
-* Contact   : msmarvel@avengers.com
+* Name      : Bruce Wayne
+* Location  : Gotham, NY
+* Contact   : bruce@wayne.com
 
 ## More Info (optional)
 
 ##### Social Media:
 
-* Twitter   : [@msmarvel](url to twitter account)
-* GitHub    : [msmarvel](url to GitHub account)
-* Url(s)    : [msmarvel.com](url to relevant sites)
+* Twitter   : [@iambatman](url to twitter account)
+* GitHub    : [iambatman](url to GitHub account)
+* Url(s)    : [iambatman.com](url to relevant sites)
 
 ##### Bio:
 
-I’m an example bio. I'm an ex-Air Force pilot superhero who possesses the powers of flight, super strength, invulnerability, and cosmic energy blasts. I love a good costume change and [a snarky one-liner](http://caroldanversspeaking.tumblr.com/).
+I’m an example bio. I'm an Billionaire CEO by day and a cape crusader by night. I AM BATMAN!
 
 ##### Photo:
 
-![Avatar](http://41.media.tumblr.com/7a491658ca955d791a622130b175f5bf/tumblr_nhvw6w9Ceq1qdep0so1_500.jpg)
+![Avatar](http://www.tvsinopse.kinghost.net/ebook2/batman63_arquivos/tvsinopse20199249.jpg)
 
 _replace with your URL_
 
-_Photo/Art by [Eric Koda](http://executiveorder9066.deviantart.com/art/Captain-Marvel-505767671)._
+_Photo/Art by [Osama](http://www.tvsinopse.kinghost.net/ebook2/batman63.htm)._
 
 ```
 
