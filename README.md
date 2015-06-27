@@ -1,9 +1,10 @@
-# centeralpark
-A place to discuss ideas and submit future proposals for future GothomSass talks.
+Welcome to Central Park! This is our place to discuss ideas and submit future proposals for future GothamSass talks.
 
 ## Want to speak at GothamSass?
 
 We're thrilled that you want to share your ideas and knowledge with our wonderful community. We welcome all sorts of talks—from workshops to short lightning talks to longer deep dives. We especially love and welcome first time speakers. 
+
+Our next event is July 21st. Starting in August our regular monthly meetup will be every **4th Tuesday** from 7-9PM. For more details, see our [meetup group](http://www.meetup.com/gothamsass/)
 
 To submit you'll need a Github account. If you don't have one, go ahead and [create an account](https://github.com/). 
 
@@ -13,8 +14,7 @@ To submit you'll need a Github account. If you don't have one, go ahead and [cre
   * Whose the talked geared towards?
   * What's the level? We welcome beginner to super advanced
   * What type of talk? Workshop (1.5-2hrs), lightning (5 or 10 minutes), or standard (20 or 30 min).
-1. Add the label `#talk submission`
-1. If you know when you'd like to talk, add a milestone to your talk. Say you want to speak in June, then select the `June Meetup` milestone. This step is optional. 
+1. Let us know when you'd like to speak. Starting in August we meet every 4th Tuesday of the month. 
 1. Tell us a bit about yourself. We'll use this information when we publish the event on our site. 
   * Name
   * Preferred gender pronoun
