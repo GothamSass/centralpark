@@ -1,14 +1,15 @@
 ## Submission Template
 
 ```
-## Submission Template
-
 # Title of Presentation (required)
 
 ## Type of Presentation (required)
 [  ] Standard Length Talk *(20 or 30 mins)*
 [  ] Lightning Talk *(5 or 10 mins)*
 [  ] Workshop *(1.5-2hrs)*
+
+## When would you ideally like to speak
+_list a month_
 
 ## Description (required)
 
@@ -19,7 +20,7 @@
 * Name                     : Bruce Wayne
 * Location                 : Gotham, NY
 * Contact                  : bruce@wayne.com
-* Preferred gender   : Male
+* Preferred gender pronoun   : They/Them/She/Her/Him/He
 
 ## More Info (optional)
 
