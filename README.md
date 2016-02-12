@@ -4,7 +4,7 @@ Welcome to Central Park! This is our place to discuss ideas and submit future pr
 
 We're thrilled that you want to share your ideas and knowledge with our wonderful community. We welcome all sorts of talks—from workshops to short lightning talks to longer deep dives. We especially love and welcome first time speakers. 
 
-Our next event is July 21st. Starting in August our regular monthly meetup will be every **4th Tuesday** from 7-9PM. For more details, see our [meetup group](http://www.meetup.com/gothamsass/)
+Our next event is July 21st. Starting in August our regular monthly meetup will be every **Last Tuesday** from 7-9PM. For more details, see our [meetup group](http://www.meetup.com/gothamsass/)
 
 To submit you'll need a Github account. If you don't have one, go ahead and [create an account](https://github.com/). 
 
