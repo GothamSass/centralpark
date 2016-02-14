@@ -4,7 +4,7 @@ Welcome to Central Park! This is our place to discuss ideas and submit future pr
 
 We're thrilled that you want to share your ideas and knowledge with our wonderful community. We welcome all sorts of talks—from workshops to short lightning talks to longer deep dives. We especially love and welcome first time speakers. 
 
-GothamSass meetups generally occur twice a Month. Talk meetups are every **Last Tuesday** from 7-9PM at [ThoughtWorks](http://www.thoughtworks.com). Workshop Meetups are hosted at [Pivotal Labs](http://www.pivotallabs.com). Visit our meetup page [here](http://www.meetup.com/gothamsass/).
+GothamSass meetups generally occur twice a Month. Talk meetups are every **Last Tuesday** from 7-9PM at [ThoughtWorks](http://www.thoughtworks.com). Starting March '16, Workshop Meetups are **2nd Thursday** at [Pivotal Labs](http://www.pivotallabs.com). Visit our meetup page [here](http://www.meetup.com/gothamsass/).
 
 To submit you'll need a Github account. If you don't have one, go ahead and [create an account](https://github.com/). 
 
