@@ -1,15 +1,15 @@
-Welcome to Central Park! This is our place to discuss ideas and submit future proposals for future GothamSass talks.
+Welcome to Central Park! This is our place to discuss ideas and submit future proposals for future GothamSass talks and workshops.
 
 ## Want to speak at GothamSass?
 
 We're thrilled that you want to share your ideas and knowledge with our wonderful community. We welcome all sorts of talks—from workshops to short lightning talks to longer deep dives. We especially love and welcome first time speakers. 
 
-Our next event is July 21st. Starting in August our regular monthly meetup will be every **Last Tuesday** from 7-9PM. For more details, see our [meetup group](http://www.meetup.com/gothamsass/)
+GothamSass meetups generally occur twice a Month. Talk meetups are every **Last Tuesday** from 7-9PM at [ThoughtWorks](http://www.thoughtworks.com). Workshop Meetups are hosted at [Pivotal Labs](http://www.pivotallabs.com). Visit our meetup page [here](http://www.meetup.com/gothamsass/).
 
 To submit you'll need a Github account. If you don't have one, go ahead and [create an account](https://github.com/). 
 
 1. Open a [new issue](https://github.com/GothamSass/centralpark/issues/new)
-1. If you have a **talk title**, go ahead an enter it. If not, a short, concise title describing your talk will suffice
+1. If you have a **talk title**, go ahead an enter it (Keep in mind meetup has an 80 char max). If not, submit a short, concise title describing your talk and we'll work on it together.
 1. Tell us what you plan on talking about in the description. Be as detailed as possible. Don't worry about pitching to us, this isn't as formal as a conference proposal, but you can use it for practice. If you have links, share them. Here are some things to think about? Checkout our [example](https://github.com/GothamSass/centralpark/issues/1) if you need help.
   * Whose the talked geared towards?
   * What's the level? We welcome beginner to super advanced
