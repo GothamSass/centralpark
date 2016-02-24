@@ -1,6 +1,3 @@
-## Submission Template
-
-```
 # Title of Presentation (required)
 
 ## Type of Presentation (required)
@@ -41,13 +38,3 @@ I’m an example bio. I'm an Billionaire CEO by day and a cape crusader by night
 _replace with your URL_
 
 _Photo/Art by [Osama](http://www.tvsinopse.kinghost.net/ebook2/batman63.htm)._
-
-
-
-
-* * * 
-```
-
-
-
-* * * 
