@@ -1,9 +1,9 @@
 # Title of Presentation (required)
 
 ## Type of Presentation (required)
-[  ] Standard Length Talk *(20 or 30 mins)*
-[  ] Lightning Talk *(5 or 10 mins)*
-[  ] Workshop *(1.5-2hrs)*
+- [ ] Standard Length Talk *(20 or 30 mins)*
+- [ ] Lightning Talk *(5 or 10 mins)*
+- [ ] Workshop *(1.5-2hrs)*
 
 ## When would you ideally like to speak
 _list a month_
