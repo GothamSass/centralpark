@@ -10,7 +10,7 @@ To submit you'll need a Github account. If you don't have one, go ahead and [cre
 
 1. Open a [new issue](https://github.com/GothamSass/centralpark/issues/new)
 1. If you have a **talk title**, go ahead an enter it (Keep in mind meetup has an 80 char max). If not, submit a short, concise title describing your talk and we'll work on it together.
-1. Tell us what you plan on talking about in the description. Be as detailed as possible. Don't worry about pitching to us, this isn't as formal as a conference proposal, but you can use it for practice. If you have links, share them. Here are some things to think about? Checkout our [example](https://github.com/GothamSass/centralpark/issues/1) if you need help.
+1. Tell us what you plan on talking about in the description. Be as detailed as possible. Don't worry about pitching to us, this isn't as formal as a conference proposal, but you can use it for practice. If you have links, share them. Here are some things to think about? Checkout our [example](https://raw.githubusercontent.com/GothamSass/centralpark/master/docs/talk-proposal-template.md) if you need help.
   * Whose the talked geared towards?
   * What's the level? We welcome beginner to super advanced
   * What type of talk? Workshop (1.5-2hrs), lightning (5 or 10 minutes), or standard (20 or 30 min).
